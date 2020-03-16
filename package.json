@@ -1,0 +1,17 @@
+{
+  "name": "hiepdh",
+  "version": "0.1.0",
+  "description": "blog website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiepdh",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "list-endpoints-express": "^1.0.1"
+  }
+}
